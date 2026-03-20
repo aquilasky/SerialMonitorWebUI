@@ -1,0 +1,21 @@
+# Build output
+build/
+publish/
+*.zip
+
+# Frontend build
+frontend/dist/
+frontend/node_modules/
+
+# IDE
+.vs/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
